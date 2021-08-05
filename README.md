@@ -16,7 +16,7 @@
   
   <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
-  <a href = "mailto:welton.nogueira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/NogueiraWelton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://img.shields.io/badge/-@NogueiraWelton-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/NogueiraWelton"></a>
-  </div>
+  [![Twitter Badge](https://img.shields.io/badge/-@NogueiraWelton-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/NogueiraWelton)]   (https://twitter.com/NogueiraWelton) 
+  [![Linkedin Badge](https://img.shields.io/badge/-Welton%20Nogueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=...)](https://www.linkedin.com/in/nogueirawelton/) 
+  [![Gmail Badge](https://img.shields.io/badge/welton.nogueira.dev@gmail.com-d93025?style=flat-     square&logo=Gmail&logoColor=white&link=mailto:welton.nogueira.dev@gmail.com)](mailto:welton.oliveira@soulasalle.com.br)
+
