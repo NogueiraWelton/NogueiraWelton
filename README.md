@@ -18,5 +18,5 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
   [![Twitter Badge](https://img.shields.io/badge/-@NogueiraWelton-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/NogueiraWelton)]   (https://twitter.com/NogueiraWelton) 
   [![Linkedin Badge](https://img.shields.io/badge/-Welton%20Nogueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=...)](https://www.linkedin.com/in/nogueirawelton/) 
-  [![Gmail Badge](https://img.shields.io/badge/welton.nogueira.dev@gmail.com-d93025?style=flat-     square&logo=Gmail&logoColor=white&link=mailto:welton.nogueira.dev@gmail.com)](mailto:welton.oliveira@soulasalle.com.br)
+  [![Gmail Badge](https://img.shields.io/badge/welton.nogueira.dev@gmail.com-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welton.nogueira.dev@gmail.com)](mailto:welton.oliveira@soulasalle.com.br)
 
