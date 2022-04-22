@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/NogueiraWelton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraWelton&layout=compact&langs_count=7&card_width=1000&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraWelton&layout=compact&langs_count=7&card_width=250&theme=dark"/>
 </div>
 
 ## Languages Stack
