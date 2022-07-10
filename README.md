@@ -1,6 +1,6 @@
 ## Hey, 👋
 
-My name is Welton Antony, I'm from Brazil 🇧🇷, specifically from Rio de Janeiro,
+My name is Welton Antony, I'm from Brazil , specifically from Rio de Janeiro,
 
 I started in Sistemas de Informação at Unilasalle in March 2021 looking to become a FullStack developer. 💻
 
