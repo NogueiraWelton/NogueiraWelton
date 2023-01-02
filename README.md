@@ -10,7 +10,7 @@ Desde o início tem sido incrível a quantidade de conhecimento adquirido sobre 
 
 <div>
   <img height="200rem" width="429px" src="https://github-readme-stats.vercel.app/api?username=NogueiraWelton&show_icons=true&theme=dark&custom_title=Status&show_icons=false"/>
-  <img height="200rem" width="412px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraWelton&layout=compact&langs_count=10&theme=dark&card_width=380.27&custom_title=Linguagens%20Mais%20Utilizadas"/>
+  <img height="200rem" width="412px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogueiraWelton&layout=compact&langs_count=10&theme=dark&card_width=412&custom_title=Linguagens%20Mais%20Utilizadas"/>
 </div>
 
 ## Tecnologias
