@@ -2,7 +2,7 @@
 
 Me chamo Welton A. Nogueira, e sou de Maricá, Rio de Janeiro.
 
-Sou um desenvolvedor iniciando a carreira, cursando sistemas de informação (5º Período) na Unilasalle-RJ.
+Sou um desenvolvedor iniciando a carreira, cursando sistemas de informação (7º Período) na Unilasalle-RJ.
 
 Desde o início tem sido incrível a quantidade de conhecimento adquirido sobre o mundo da programação, e realmente ver como tudo que nos conecta hoje funciona. Estou sempre em busca de ser melhor que o dia de ontem e aprender coisas novas, visando a organização e o constante foco em meus objetivos.
 
